@@ -65,88 +65,88 @@
      <Compile Include="Assets\Scripts\BulletManager.cs" />
      <Compile Include="Assets\Scripts\ShipController.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
- </Reference>
- <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Burst.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Collections">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Entities.Properties">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.Properties.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.Properties.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Jobs">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Jobs.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Jobs.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Jobs.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Jobs.Editor.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Jobs.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Entities.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.Editor.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Entities.StaticTypeRegistry">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.StaticTypeRegistry.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.StaticTypeRegistry.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Burst.Editor">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Collections">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Scenes.Hybrid">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Scenes.Hybrid.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Scenes.Hybrid.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Scenes.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Scenes.Editor.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Scenes.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Extensions">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Mathematics.Extensions.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Mathematics.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Extensions.Hybrid">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Mathematics.Extensions.Hybrid.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Mathematics.Extensions.Hybrid.dll</HintPath>
  </Reference>
- <Reference Include="Unity.Entities.BuildUtils">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.BuildUtils.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Entities.Hybrid">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Properties">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Properties.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Entities">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Transforms">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Transforms.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Transforms.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Transforms.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Transforms.Hybrid">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll</HintPath>
+ <Reference Include="Unity.Timeline">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rendering.Hybrid">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.CollabProxy.Editor">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Entities.BuildUtils">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.BuildUtils.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Entities.Hybrid">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Properties">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Properties.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Entities">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Entities.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Transforms">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Transforms.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Transforms.Editor">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Transforms.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics.Editor">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.DataPrivacy">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Transforms.Hybrid">
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -335,19 +335,19 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.10f1/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Unsafe">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/PackageCache/com.unity.burst@1.1.2/Unity.Burst.Unsafe.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/PackageCache/com.unity.burst@1.1.2/Unity.Burst.Unsafe.dll</HintPath>
  </Reference>
  <Reference Include="System.Runtime.CompilerServices.Unsafe">
- <HintPath>C:/Users/Public/Dots_Asteroids/Library/PackageCache/com.unity.collections@0.1.1-preview/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+ <HintPath>C:/Users/Public/DOD-Asteroids/Dots_Asteroids/Library/PackageCache/com.unity.collections@0.1.1-preview/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.10f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

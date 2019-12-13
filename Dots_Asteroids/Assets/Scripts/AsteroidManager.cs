@@ -66,7 +66,7 @@ public class AsteroidManager : MonoBehaviour
     void ManageCollisions()
     {
         CollideWithBullet();
-        //CollideWithShip();
+        CollideWithShip();
     }
 
     //checks for collision with the ship and asteroid
@@ -95,6 +95,7 @@ public class AsteroidManager : MonoBehaviour
                 if ((new Vector3(manager.GetComponentData<Translation>(list[i]).Value.x, manager.GetComponentData<Translation>(list[i]).Value.y, 0) - new Vector3(manager.GetComponentData<Translation>(entities[j]).Value.x, manager.GetComponentData<Translation>(entities[j]).Value.y, 0)).magnitude < 2.1)
                 {
                     manager.DestroyEntity(entities[j]);
+                    entities.RemoveAt(j);
                 }
             }
         }
